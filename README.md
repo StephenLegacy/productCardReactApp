@@ -1,10 +1,7 @@
-Certainly! Here's a modern and professional README for your project:
-
----
 
 # Product Card App
 
-A modern and dynamic product card app built using React, with modular components and styled with Bootstrap. This app is designed to display product details and serve as a template for showcasing products in an interactive and user-friendly way.
+A modern and dynamic product card app built using React, with modular components and styled with Bootstrap. This app is designed to display product details and serve as a template for showcasing products in an interactive and user-friendly way. @GomyCode
 
 ## Table of Contents
 - [Technologies](#technologies)
